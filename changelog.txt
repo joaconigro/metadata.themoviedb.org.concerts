@@ -1,3 +1,14 @@
+[B]2.0.0[/B]
+- Fixed after API layout changes
+
+[B]1.1.1[/B]
+- Fixed after API layout changes
+
+[B]1.1.0[/B]
+
+- Fix server not found.
+
 [B]1.0.0[/B]
+
 - New Concert Add-on synced with TheMovieDB.org scraper
 - New icon
